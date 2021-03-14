@@ -1,0 +1,12 @@
+{
+    "files": [
+      {
+        "path": "./build/public/js/*.js",
+        "maxSize": "10 kB"
+      },
+      {
+        "path": "./build/public/css/*.css",
+        "maxSize": "10 kB"
+      }
+    ]
+  }
